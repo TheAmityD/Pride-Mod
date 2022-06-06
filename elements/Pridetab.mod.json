@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "Pridetab",
+    "icon": {
+      "value": "Blocks.END_ROD"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ams_pride_mod:block/rainbowflag"
+    },
+    "facing=east": {
+      "model": "ams_pride_mod:block/rainbowflag",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ams_pride_mod:block/rainbowflag",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ams_pride_mod:block/rainbowflag",
+      "y": 270
+    }
+  }
+}

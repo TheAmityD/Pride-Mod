@@ -1,0 +1,8 @@
+{
+  "parent": "ams_pride_mod:custom/rainbow-flag-new",
+  "textures": {
+    "all": "ams_pride_mod:blocks/rainbow",
+    "particle": "ams_pride_mod:blocks/rainbow",
+    "4": "ams_pride_mod:blocks/rainbow"
+  }
+}

@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT License"
+
+[[mods]]
+modId="ams_pride_mod"
+version="0.0.1"
+displayName="Am's Pride Mod!"
+credits="Am's Pride Mod!"
+displayURL="https://github.com/TheAmityD/Pride-Mod"
+authors="AmityD"
+
+[[dependencies.ams_pride_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

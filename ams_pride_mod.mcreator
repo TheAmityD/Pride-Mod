@@ -1,0 +1,50 @@
+{
+  "mod_elements": [
+    {
+      "name": "Pridetab",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pridetab"
+    },
+    {
+      "name": "Rainbowflag",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbowflag"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.ams_pride_mod.rainbowflag": "Rainbowflag",
+      "itemGroup.tabpridetab": "Pride Tab"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ams_pride_mod",
+    "modName": "Am\u0027s Pride Mod!",
+    "version": "1.0.0",
+    "author": "AmityD, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.amityd.pridemod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}
